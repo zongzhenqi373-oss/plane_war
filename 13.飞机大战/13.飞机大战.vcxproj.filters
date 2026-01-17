@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Back">
+      <UniqueIdentifier>{34285778-db5c-4430-8d8c-16f0df9ff4ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CGameFrame">
+      <UniqueIdentifier>{07f199a0-9412-4833-b276-f1a73597f137}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Config">
+      <UniqueIdentifier>{c237b1d1-827d-4c27-bbfb-5214bc7b3653}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FoeList">
+      <UniqueIdentifier>{21eb3759-93b4-46e8-b0f0-83c769568fa8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GunList">
+      <UniqueIdentifier>{cd21b8f0-2c52-48ac-ae22-1d91c7482417}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Player">
+      <UniqueIdentifier>{a4f2d171-90eb-4011-be98-ce099889bfb4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PlaneApp">
+      <UniqueIdentifier>{4898ad9f-b084-4d25-b7aa-f1bd8d63060b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FacFoe">
+      <UniqueIdentifier>{9ff47fe3-cddc-405f-9eb4-d9b94fe4d0b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Observer">
+      <UniqueIdentifier>{5a40e7f7-62fd-4ed8-928c-6f389ec01593}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Level">
+      <UniqueIdentifier>{73d4dbf5-be5c-4071-95e0-949978c2c11b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Item">
+      <UniqueIdentifier>{ec599f77-b2dd-4be0-a6f9-b1eed84adc54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ItemFactory">
+      <UniqueIdentifier>{dc187ac6-545c-4050-99c4-798e67395e93}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Back\Back.cpp">
+      <Filter>Back</Filter>
+    </ClCompile>
+    <ClCompile Include="CGameFrame\CGameFrame.cpp">
+      <Filter>CGameFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="Config\Config.cpp">
+      <Filter>Config</Filter>
+    </ClCompile>
+    <ClCompile Include="FoeList\Foe.cpp">
+      <Filter>FoeList</Filter>
+    </ClCompile>
+    <ClCompile Include="FoeList\FoeBig.cpp">
+      <Filter>FoeList</Filter>
+    </ClCompile>
+    <ClCompile Include="FoeList\FoeList.cpp">
+      <Filter>FoeList</Filter>
+    </ClCompile>
+    <ClCompile Include="FoeList\FoeMid.cpp">
+      <Filter>FoeList</Filter>
+    </ClCompile>
+    <ClCompile Include="FoeList\FoeSma.cpp">
+      <Filter>FoeList</Filter>
+    </ClCompile>
+    <ClCompile Include="GunList\Gun.cpp">
+      <Filter>GunList</Filter>
+    </ClCompile>
+    <ClCompile Include="GunList\GunList.cpp">
+      <Filter>GunList</Filter>
+    </ClCompile>
+    <ClCompile Include="PlaneApp\PlaneApp.cpp">
+      <Filter>PlaneApp</Filter>
+    </ClCompile>
+    <ClCompile Include="Player\Player.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="FacFoe\FacFoe.cpp">
+      <Filter>FacFoe</Filter>
+    </ClCompile>
+    <ClCompile Include="Level\Level.cpp">
+      <Filter>Level</Filter>
+    </ClCompile>
+    <ClCompile Include="Item\Item.cpp">
+      <Filter>Item</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemFactory\ItemFactory.cpp">
+      <Filter>ItemFactory</Filter>
+    </ClCompile>
+    <ClCompile Include="Item\BulletItem.cpp">
+      <Filter>Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Item\ShieldItem.cpp">
+      <Filter>Item</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Back\Back.h">
+      <Filter>Back</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameFrame\CGameFrame.h">
+      <Filter>CGameFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="Config\Config.h">
+      <Filter>Config</Filter>
+    </ClInclude>
+    <ClInclude Include="FoeList\Foe.h">
+      <Filter>FoeList</Filter>
+    </ClInclude>
+    <ClInclude Include="FoeList\FoeBig.h">
+      <Filter>FoeList</Filter>
+    </ClInclude>
+    <ClInclude Include="FoeList\FoeList.h">
+      <Filter>FoeList</Filter>
+    </ClInclude>
+    <ClInclude Include="FoeList\FoeMid.h">
+      <Filter>FoeList</Filter>
+    </ClInclude>
+    <ClInclude Include="FoeList\FoeSma.h">
+      <Filter>FoeList</Filter>
+    </ClInclude>
+    <ClInclude Include="GunList\Gun.h">
+      <Filter>GunList</Filter>
+    </ClInclude>
+    <ClInclude Include="GunList\GunList.h">
+      <Filter>GunList</Filter>
+    </ClInclude>
+    <ClInclude Include="PlaneApp\PlaneApp.h">
+      <Filter>PlaneApp</Filter>
+    </ClInclude>
+    <ClInclude Include="Player\Player.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="FacFoe\FacFoe.h">
+      <Filter>FacFoe</Filter>
+    </ClInclude>
+    <ClInclude Include="Observer\Observer.h">
+      <Filter>Observer</Filter>
+    </ClInclude>
+    <ClInclude Include="Level\Level.h">
+      <Filter>Level</Filter>
+    </ClInclude>
+    <ClInclude Include="Item\Item.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemFactory\ItemFactory.h">
+      <Filter>ItemFactory</Filter>
+    </ClInclude>
+    <ClInclude Include="Item\BulletItem.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Item\ShieldItem.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
