@@ -18,7 +18,7 @@ int main()
 	b = function(a);
 
 	printf("b 的值是：%d",b);
-	printf("版本C\n");
+	printf("版本D\n");
 
 	return 0;
 }
